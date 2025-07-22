@@ -16,19 +16,7 @@ This project extracts questions and images from educational PDFs and uses AI to 
 
 ## 📂 Folder Structure
 
-ai_pdf_processor/
-├── app/
-│ └── ui.py # Streamlit UI
-├── backend/
-│ ├── extractor.py # PDF parser
-│ └── question_generator.py # Gemini-based question generator
-├── input/ # Upload PDF here
-├── output/
-│ ├── images/ # Extracted image files
-│ └── data.json # Final structured result
-├── main.py # CLI runner (optional)
-├── requirements.txt
-├── .env # Store GEMINI_API_KEY here
+<img width="553" height="382" alt="image" src="https://github.com/user-attachments/assets/de0bb0cc-fba7-4383-969b-6820923f1b99" />
 
 
 ---
