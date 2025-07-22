@@ -5,12 +5,13 @@ This project extracts questions and images from educational PDFs and uses AI to 
 ---
 ## 🧰 Tech Stack
 
-- Python
-- Streamlit
-- PyMuPDF (for PDF parsing)
-- Pillow
-- Gemini 1.5 Flash (via Google Generative AI API)
-- `python-dotenv` for secure API key loading
+streamlit
+PyMuPDF
+Pillow
+pdfplumber
+pytesseract
+google-generativeai
+python-dotenv
 
 ---
 
