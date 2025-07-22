@@ -1,0 +1,20 @@
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore Streamlit and Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Ignore PDF and output files
+input/
+output/
+*.pdf
+*.json
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
